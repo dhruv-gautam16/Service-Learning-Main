@@ -1,0 +1,15 @@
+food stall
+general store
+metro
+nearest attraction
+nearest exit
+parking stand
+police station
+ticket counter
+time
+train
+waiting area
+washroom
+water
+father
+sick
